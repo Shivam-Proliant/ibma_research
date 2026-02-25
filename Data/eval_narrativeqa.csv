@@ -1,0 +1,6 @@
+turn,fact,query,expected,frame
+1,Document end.,Summarize the key events in this text.,Manual check required,NarrativeQA
+2,Document end.,Summarize the key events in this text.,Manual check required,NarrativeQA
+3,Document end.,Summarize the key events in this text.,Manual check required,NarrativeQA
+4,Document end.,Summarize the key events in this text.,Manual check required,NarrativeQA
+5,Document end.,Summarize the key events in this text.,Manual check required,NarrativeQA

@@ -1,0 +1,951 @@
+turn,fact,query,expected,frame
+1,Data Point 1: The secure access code for Vault 1 is 1001.,None,None,Earth_Base
+2,Data Point 2: The secure access code for Vault 2 is 1002.,None,None,Earth_Base
+3,Data Point 3: The secure access code for Vault 3 is 1003.,None,None,Earth_Base
+4,Data Point 4: The secure access code for Vault 4 is 1004.,None,None,Earth_Base
+5,Data Point 5: The secure access code for Vault 5 is 1005.,None,None,Earth_Base
+6,Data Point 6: The secure access code for Vault 6 is 1006.,None,None,Earth_Base
+7,Data Point 7: The secure access code for Vault 7 is 1007.,None,None,Earth_Base
+8,Data Point 8: The secure access code for Vault 8 is 1008.,None,None,Earth_Base
+9,Data Point 9: The secure access code for Vault 9 is 1009.,None,None,Earth_Base
+10,Data Point 10: The secure access code for Vault 10 is 1010.,None,None,Earth_Base
+11,Data Point 11: The secure access code for Vault 11 is 1011.,None,None,Earth_Base
+12,Data Point 12: The secure access code for Vault 12 is 1012.,None,None,Earth_Base
+13,Data Point 13: The secure access code for Vault 13 is 1013.,None,None,Earth_Base
+14,Data Point 14: The secure access code for Vault 14 is 1014.,None,None,Earth_Base
+15,Data Point 15: The secure access code for Vault 15 is 1015.,None,None,Earth_Base
+16,Data Point 16: The secure access code for Vault 16 is 1016.,None,None,Earth_Base
+17,Data Point 17: The secure access code for Vault 17 is 1017.,None,None,Earth_Base
+18,Data Point 18: The secure access code for Vault 18 is 1018.,None,None,Earth_Base
+19,Data Point 19: The secure access code for Vault 19 is 1019.,None,None,Earth_Base
+20,Data Point 20: The secure access code for Vault 20 is 1020.,None,None,Earth_Base
+21,Data Point 21: The secure access code for Vault 21 is 1021.,None,None,Earth_Base
+22,Data Point 22: The secure access code for Vault 22 is 1022.,None,None,Earth_Base
+23,Data Point 23: The secure access code for Vault 23 is 1023.,None,None,Earth_Base
+24,Data Point 24: The secure access code for Vault 24 is 1024.,None,None,Earth_Base
+25,Data Point 25: The secure access code for Vault 25 is 1025.,None,None,Earth_Base
+26,Data Point 26: The secure access code for Vault 26 is 1026.,None,None,Earth_Base
+27,Data Point 27: The secure access code for Vault 27 is 1027.,None,None,Earth_Base
+28,Data Point 28: The secure access code for Vault 28 is 1028.,None,None,Earth_Base
+29,Data Point 29: The secure access code for Vault 29 is 1029.,None,None,Earth_Base
+30,Data Point 30: The secure access code for Vault 30 is 1030.,None,None,Earth_Base
+31,Data Point 31: The secure access code for Vault 31 is 1031.,None,None,Earth_Base
+32,Data Point 32: The secure access code for Vault 32 is 1032.,None,None,Earth_Base
+33,Data Point 33: The secure access code for Vault 33 is 1033.,None,None,Earth_Base
+34,Data Point 34: The secure access code for Vault 34 is 1034.,None,None,Earth_Base
+35,Data Point 35: The secure access code for Vault 35 is 1035.,None,None,Earth_Base
+36,Data Point 36: The secure access code for Vault 36 is 1036.,None,None,Earth_Base
+37,Data Point 37: The secure access code for Vault 37 is 1037.,None,None,Earth_Base
+38,Data Point 38: The secure access code for Vault 38 is 1038.,None,None,Earth_Base
+39,Data Point 39: The secure access code for Vault 39 is 1039.,None,None,Earth_Base
+40,Data Point 40: The secure access code for Vault 40 is 1040.,None,None,Earth_Base
+41,Data Point 41: The secure access code for Vault 41 is 1041.,None,None,Earth_Base
+42,Data Point 42: The secure access code for Vault 42 is 1042.,None,None,Earth_Base
+43,Data Point 43: The secure access code for Vault 43 is 1043.,None,None,Earth_Base
+44,Data Point 44: The secure access code for Vault 44 is 1044.,None,None,Earth_Base
+45,Data Point 45: The secure access code for Vault 45 is 1045.,None,None,Earth_Base
+46,Data Point 46: The secure access code for Vault 46 is 1046.,None,None,Earth_Base
+47,Data Point 47: The secure access code for Vault 47 is 1047.,None,None,Earth_Base
+48,Data Point 48: The secure access code for Vault 48 is 1048.,None,None,Earth_Base
+49,Data Point 49: The secure access code for Vault 49 is 1049.,None,None,Earth_Base
+50,Data Point 50: The secure access code for Vault 50 is 1050.,None,None,Earth_Base
+51,Log 51: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+52,Log 52: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+53,Log 53: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+54,Log 54: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+55,Log 55: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+56,Log 56: Static report on weather. No anomalies detected.,None,None,Earth_Base
+57,Log 57: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+58,Log 58: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+59,Log 59: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+60,Log 60: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+61,Log 61: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+62,Log 62: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+63,Log 63: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+64,Log 64: Static report on weather. No anomalies detected.,None,None,Earth_Base
+65,Log 65: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+66,Log 66: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+67,Log 67: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+68,Log 68: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+69,Log 69: Static report on weather. No anomalies detected.,None,None,Earth_Base
+70,Log 70: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+71,Log 71: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+72,Log 72: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+73,Log 73: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+74,Log 74: Static report on weather. No anomalies detected.,None,None,Earth_Base
+75,Log 75: Static report on weather. No anomalies detected.,None,None,Earth_Base
+76,Log 76: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+77,Log 77: Static report on weather. No anomalies detected.,None,None,Earth_Base
+78,Log 78: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+79,Log 79: Static report on weather. No anomalies detected.,None,None,Earth_Base
+80,Log 80: Static report on weather. No anomalies detected.,None,None,Earth_Base
+81,Log 81: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+82,Log 82: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+83,Log 83: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+84,Log 84: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+85,Log 85: Static report on weather. No anomalies detected.,None,None,Earth_Base
+86,Log 86: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+87,Log 87: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+88,Log 88: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+89,Log 89: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+90,Log 90: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+91,Log 91: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+92,Log 92: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+93,Log 93: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+94,Log 94: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+95,Log 95: Static report on weather. No anomalies detected.,None,None,Earth_Base
+96,Log 96: Static report on weather. No anomalies detected.,None,None,Earth_Base
+97,Log 97: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+98,Log 98: Static report on weather. No anomalies detected.,None,None,Earth_Base
+99,Log 99: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+100,Log 100: Static report on weather. No anomalies detected.,None,None,Earth_Base
+101,Log 101: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+102,Log 102: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+103,Log 103: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+104,Log 104: Static report on weather. No anomalies detected.,None,None,Earth_Base
+105,Log 105: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+106,Log 106: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+107,Log 107: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+108,Log 108: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+109,Log 109: Static report on weather. No anomalies detected.,None,None,Earth_Base
+110,Log 110: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+111,Log 111: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+112,Log 112: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+113,Log 113: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+114,Log 114: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+115,Log 115: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+116,Log 116: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+117,Log 117: Static report on weather. No anomalies detected.,None,None,Earth_Base
+118,Log 118: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+119,Log 119: Static report on weather. No anomalies detected.,None,None,Earth_Base
+120,Log 120: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+121,Log 121: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+122,Log 122: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+123,Log 123: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+124,Log 124: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+125,Log 125: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+126,Log 126: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+127,Log 127: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+128,Log 128: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+129,Log 129: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+130,Log 130: Static report on weather. No anomalies detected.,None,None,Earth_Base
+131,Log 131: Static report on weather. No anomalies detected.,None,None,Earth_Base
+132,Log 132: Static report on weather. No anomalies detected.,None,None,Earth_Base
+133,Log 133: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+134,Log 134: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+135,Log 135: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+136,Log 136: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+137,Log 137: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+138,Log 138: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+139,Log 139: Static report on weather. No anomalies detected.,None,None,Earth_Base
+140,Log 140: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+141,Log 141: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+142,Log 142: Static report on weather. No anomalies detected.,None,None,Earth_Base
+143,Log 143: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+144,Log 144: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+145,Log 145: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+146,Log 146: Static report on weather. No anomalies detected.,None,None,Earth_Base
+147,Log 147: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+148,Log 148: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+149,Log 149: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+150,Log 150: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+151,Log 151: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+152,Log 152: Static report on weather. No anomalies detected.,None,None,Earth_Base
+153,Log 153: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+154,Log 154: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+155,Log 155: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+156,Log 156: Static report on weather. No anomalies detected.,None,None,Earth_Base
+157,Log 157: Static report on weather. No anomalies detected.,None,None,Earth_Base
+158,Log 158: Static report on weather. No anomalies detected.,None,None,Earth_Base
+159,Log 159: Static report on weather. No anomalies detected.,None,None,Earth_Base
+160,Log 160: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+161,Log 161: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+162,Log 162: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+163,Log 163: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+164,Log 164: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+165,Log 165: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+166,Log 166: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+167,Log 167: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+168,Log 168: Static report on weather. No anomalies detected.,None,None,Earth_Base
+169,Log 169: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+170,Log 170: Static report on weather. No anomalies detected.,None,None,Earth_Base
+171,Log 171: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+172,Log 172: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+173,Log 173: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+174,Log 174: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+175,Log 175: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+176,Log 176: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+177,Log 177: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+178,Log 178: Static report on weather. No anomalies detected.,None,None,Earth_Base
+179,Log 179: Static report on weather. No anomalies detected.,None,None,Earth_Base
+180,Log 180: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+181,Log 181: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+182,Log 182: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+183,Log 183: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+184,Log 184: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+185,Log 185: Static report on weather. No anomalies detected.,None,None,Earth_Base
+186,Log 186: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+187,Log 187: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+188,Log 188: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+189,Log 189: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+190,Log 190: Static report on weather. No anomalies detected.,None,None,Earth_Base
+191,Log 191: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+192,Log 192: Static report on weather. No anomalies detected.,None,None,Earth_Base
+193,Log 193: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+194,Log 194: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+195,Log 195: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+196,Log 196: Static report on weather. No anomalies detected.,None,None,Earth_Base
+197,Log 197: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+198,Log 198: Static report on weather. No anomalies detected.,None,None,Earth_Base
+199,Log 199: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+200,Log 200: Static report on weather. No anomalies detected.,None,None,Earth_Base
+201,Log 201: Static report on weather. No anomalies detected.,None,None,Earth_Base
+202,Log 202: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+203,Log 203: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+204,Log 204: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+205,Log 205: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+206,Log 206: Static report on weather. No anomalies detected.,None,None,Earth_Base
+207,Log 207: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+208,Log 208: Static report on weather. No anomalies detected.,None,None,Earth_Base
+209,Log 209: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+210,Log 210: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+211,Log 211: Static report on weather. No anomalies detected.,None,None,Earth_Base
+212,Log 212: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+213,Log 213: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+214,Log 214: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+215,Log 215: Static report on weather. No anomalies detected.,None,None,Earth_Base
+216,Log 216: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+217,Log 217: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+218,Log 218: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+219,Log 219: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+220,Log 220: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+221,Log 221: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+222,Log 222: Static report on weather. No anomalies detected.,None,None,Earth_Base
+223,Log 223: Static report on weather. No anomalies detected.,None,None,Earth_Base
+224,Log 224: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+225,Log 225: Static report on weather. No anomalies detected.,None,None,Earth_Base
+226,Log 226: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+227,Log 227: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+228,Log 228: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+229,Log 229: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+230,Log 230: Static report on weather. No anomalies detected.,None,None,Earth_Base
+231,Log 231: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+232,Log 232: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+233,Log 233: Static report on weather. No anomalies detected.,None,None,Earth_Base
+234,Log 234: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+235,Log 235: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+236,Log 236: Static report on weather. No anomalies detected.,None,None,Earth_Base
+237,Log 237: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+238,Log 238: Static report on weather. No anomalies detected.,None,None,Earth_Base
+239,Log 239: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+240,Log 240: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+241,Log 241: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+242,Log 242: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+243,Log 243: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+244,Log 244: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+245,Log 245: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+246,Log 246: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+247,Log 247: Static report on weather. No anomalies detected.,None,None,Earth_Base
+248,Log 248: Static report on weather. No anomalies detected.,None,None,Earth_Base
+249,Log 249: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+250,Log 250: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+251,Log 251: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+252,Log 252: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+253,Log 253: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+254,Log 254: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+255,Log 255: Static report on weather. No anomalies detected.,None,None,Earth_Base
+256,Log 256: Static report on weather. No anomalies detected.,None,None,Earth_Base
+257,Log 257: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+258,Log 258: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+259,Log 259: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+260,Log 260: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+261,Log 261: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+262,Log 262: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+263,Log 263: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+264,Log 264: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+265,Log 265: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+266,Log 266: Static report on weather. No anomalies detected.,None,None,Earth_Base
+267,Log 267: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+268,Log 268: Static report on weather. No anomalies detected.,None,None,Earth_Base
+269,Log 269: Static report on weather. No anomalies detected.,None,None,Earth_Base
+270,Log 270: Static report on weather. No anomalies detected.,None,None,Earth_Base
+271,Log 271: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+272,Log 272: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+273,Log 273: Static report on weather. No anomalies detected.,None,None,Earth_Base
+274,Log 274: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+275,Log 275: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+276,Log 276: Static report on weather. No anomalies detected.,None,None,Earth_Base
+277,Log 277: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+278,Log 278: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+279,Log 279: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+280,Log 280: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+281,Log 281: Static report on weather. No anomalies detected.,None,None,Earth_Base
+282,Log 282: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+283,Log 283: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+284,Log 284: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+285,Log 285: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+286,Log 286: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+287,Log 287: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+288,Log 288: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+289,Log 289: Static report on weather. No anomalies detected.,None,None,Earth_Base
+290,Log 290: Static report on weather. No anomalies detected.,None,None,Earth_Base
+291,Log 291: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+292,Log 292: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+293,Log 293: Static report on weather. No anomalies detected.,None,None,Earth_Base
+294,Log 294: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+295,Log 295: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+296,Log 296: Static report on weather. No anomalies detected.,None,None,Earth_Base
+297,Log 297: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+298,Log 298: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+299,Log 299: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+300,Log 300: Static report on weather. No anomalies detected.,None,None,Earth_Base
+301,Log 301: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+302,Log 302: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+303,Log 303: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+304,Log 304: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+305,Log 305: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+306,Log 306: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+307,Log 307: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+308,Log 308: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+309,Log 309: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+310,Log 310: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+311,Log 311: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+312,Log 312: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+313,Log 313: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+314,Log 314: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+315,Log 315: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+316,Log 316: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+317,Log 317: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+318,Log 318: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+319,Log 319: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+320,Log 320: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+321,Log 321: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+322,Log 322: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+323,Log 323: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+324,Log 324: Static report on weather. No anomalies detected.,None,None,Earth_Base
+325,Log 325: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+326,Log 326: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+327,Log 327: Static report on weather. No anomalies detected.,None,None,Earth_Base
+328,Log 328: Static report on weather. No anomalies detected.,None,None,Earth_Base
+329,Log 329: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+330,Log 330: Static report on weather. No anomalies detected.,None,None,Earth_Base
+331,Log 331: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+332,Log 332: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+333,Log 333: Static report on weather. No anomalies detected.,None,None,Earth_Base
+334,Log 334: Static report on weather. No anomalies detected.,None,None,Earth_Base
+335,Log 335: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+336,Log 336: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+337,Log 337: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+338,Log 338: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+339,Log 339: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+340,Log 340: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+341,Log 341: Static report on weather. No anomalies detected.,None,None,Earth_Base
+342,Log 342: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+343,Log 343: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+344,Log 344: Static report on weather. No anomalies detected.,None,None,Earth_Base
+345,Log 345: Static report on weather. No anomalies detected.,None,None,Earth_Base
+346,Log 346: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+347,Log 347: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+348,Log 348: Static report on weather. No anomalies detected.,None,None,Earth_Base
+349,Log 349: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+350,Log 350: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+351,Log 351: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+352,Log 352: Static report on weather. No anomalies detected.,None,None,Earth_Base
+353,Log 353: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+354,Log 354: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+355,Log 355: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+356,Log 356: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+357,Log 357: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+358,Log 358: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+359,Log 359: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+360,Log 360: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+361,Log 361: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+362,Log 362: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+363,Log 363: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+364,Log 364: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+365,Log 365: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+366,Log 366: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+367,Log 367: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+368,Log 368: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+369,Log 369: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+370,Log 370: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+371,Log 371: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+372,Log 372: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+373,Log 373: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+374,Log 374: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+375,Log 375: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+376,Log 376: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+377,Log 377: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+378,Log 378: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+379,Log 379: Static report on weather. No anomalies detected.,None,None,Earth_Base
+380,Log 380: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+381,Log 381: Static report on weather. No anomalies detected.,None,None,Earth_Base
+382,Log 382: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+383,Log 383: Static report on weather. No anomalies detected.,None,None,Earth_Base
+384,Log 384: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+385,Log 385: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+386,Log 386: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+387,Log 387: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+388,Log 388: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+389,Log 389: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+390,Log 390: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+391,Log 391: Static report on weather. No anomalies detected.,None,None,Earth_Base
+392,Log 392: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+393,Log 393: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+394,Log 394: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+395,Log 395: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+396,Log 396: Static report on weather. No anomalies detected.,None,None,Earth_Base
+397,Log 397: Static report on weather. No anomalies detected.,None,None,Earth_Base
+398,Log 398: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+399,Log 399: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+400,Log 400: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+401,Log 401: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+402,Log 402: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+403,Log 403: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+404,Log 404: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+405,Log 405: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+406,Log 406: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+407,Log 407: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+408,Log 408: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+409,Log 409: Static report on weather. No anomalies detected.,None,None,Earth_Base
+410,Log 410: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+411,Log 411: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+412,Log 412: Static report on weather. No anomalies detected.,None,None,Earth_Base
+413,Log 413: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+414,Log 414: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+415,Log 415: Static report on weather. No anomalies detected.,None,None,Earth_Base
+416,Log 416: Static report on weather. No anomalies detected.,None,None,Earth_Base
+417,Log 417: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+418,Log 418: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+419,Log 419: Static report on weather. No anomalies detected.,None,None,Earth_Base
+420,Log 420: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+421,Log 421: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+422,Log 422: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+423,Log 423: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+424,Log 424: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+425,Log 425: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+426,Log 426: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+427,Log 427: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+428,Log 428: Static report on weather. No anomalies detected.,None,None,Earth_Base
+429,Log 429: Static report on weather. No anomalies detected.,None,None,Earth_Base
+430,Log 430: Static report on weather. No anomalies detected.,None,None,Earth_Base
+431,Log 431: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+432,Log 432: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+433,Log 433: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+434,Log 434: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+435,Log 435: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+436,Log 436: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+437,Log 437: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+438,Log 438: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+439,Log 439: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+440,Log 440: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+441,Log 441: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+442,Log 442: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+443,Log 443: Static report on weather. No anomalies detected.,None,None,Earth_Base
+444,Log 444: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+445,Log 445: Static report on weather. No anomalies detected.,None,None,Earth_Base
+446,Log 446: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+447,Log 447: Static report on weather. No anomalies detected.,None,None,Earth_Base
+448,Log 448: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+449,Log 449: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+450,Log 450: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+451,Log 451: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+452,Log 452: Static report on weather. No anomalies detected.,None,None,Earth_Base
+453,Log 453: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+454,Log 454: Static report on weather. No anomalies detected.,None,None,Earth_Base
+455,Log 455: Static report on weather. No anomalies detected.,None,None,Earth_Base
+456,Log 456: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+457,Log 457: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+458,Log 458: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+459,Log 459: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+460,Log 460: Static report on weather. No anomalies detected.,None,None,Earth_Base
+461,Log 461: Static report on weather. No anomalies detected.,None,None,Earth_Base
+462,Log 462: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+463,Log 463: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+464,Log 464: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+465,Log 465: Static report on weather. No anomalies detected.,None,None,Earth_Base
+466,Log 466: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+467,Log 467: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+468,Log 468: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+469,Log 469: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+470,Log 470: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+471,Log 471: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+472,Log 472: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+473,Log 473: Static report on weather. No anomalies detected.,None,None,Earth_Base
+474,Log 474: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+475,Log 475: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+476,Log 476: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+477,Log 477: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+478,Log 478: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+479,Log 479: Static report on weather. No anomalies detected.,None,None,Earth_Base
+480,Log 480: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+481,Log 481: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+482,Log 482: Static report on weather. No anomalies detected.,None,None,Earth_Base
+483,Log 483: Static report on weather. No anomalies detected.,None,None,Earth_Base
+484,Log 484: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+485,Log 485: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+486,Log 486: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+487,Log 487: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+488,Log 488: Static report on weather. No anomalies detected.,None,None,Earth_Base
+489,Log 489: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+490,Log 490: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+491,Log 491: Static report on weather. No anomalies detected.,None,None,Earth_Base
+492,Log 492: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+493,Log 493: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+494,Log 494: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+495,Log 495: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+496,Log 496: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+497,Log 497: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+498,Log 498: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+499,Log 499: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+500,Log 500: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+501,Log 501: Static report on weather. No anomalies detected.,None,None,Earth_Base
+502,Log 502: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+503,Log 503: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+504,Log 504: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+505,Log 505: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+506,Log 506: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+507,Log 507: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+508,Log 508: Static report on weather. No anomalies detected.,None,None,Earth_Base
+509,Log 509: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+510,Log 510: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+511,Log 511: Static report on weather. No anomalies detected.,None,None,Earth_Base
+512,Log 512: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+513,Log 513: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+514,Log 514: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+515,Log 515: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+516,Log 516: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+517,Log 517: Static report on weather. No anomalies detected.,None,None,Earth_Base
+518,Log 518: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+519,Log 519: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+520,Log 520: Static report on weather. No anomalies detected.,None,None,Earth_Base
+521,Log 521: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+522,Log 522: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+523,Log 523: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+524,Log 524: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+525,Log 525: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+526,Log 526: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+527,Log 527: Static report on weather. No anomalies detected.,None,None,Earth_Base
+528,Log 528: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+529,Log 529: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+530,Log 530: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+531,Log 531: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+532,Log 532: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+533,Log 533: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+534,Log 534: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+535,Log 535: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+536,Log 536: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+537,Log 537: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+538,Log 538: Static report on weather. No anomalies detected.,None,None,Earth_Base
+539,Log 539: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+540,Log 540: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+541,Log 541: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+542,Log 542: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+543,Log 543: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+544,Log 544: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+545,Log 545: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+546,Log 546: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+547,Log 547: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+548,Log 548: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+549,Log 549: Static report on weather. No anomalies detected.,None,None,Earth_Base
+550,Log 550: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+551,Log 551: Static report on weather. No anomalies detected.,None,None,Earth_Base
+552,Log 552: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+553,Log 553: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+554,Log 554: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+555,Log 555: Static report on weather. No anomalies detected.,None,None,Earth_Base
+556,Log 556: Static report on weather. No anomalies detected.,None,None,Earth_Base
+557,Log 557: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+558,Log 558: Static report on weather. No anomalies detected.,None,None,Earth_Base
+559,Log 559: Static report on weather. No anomalies detected.,None,None,Earth_Base
+560,Log 560: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+561,Log 561: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+562,Log 562: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+563,Log 563: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+564,Log 564: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+565,Log 565: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+566,Log 566: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+567,Log 567: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+568,Log 568: Static report on weather. No anomalies detected.,None,None,Earth_Base
+569,Log 569: Static report on weather. No anomalies detected.,None,None,Earth_Base
+570,Log 570: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+571,Log 571: Static report on weather. No anomalies detected.,None,None,Earth_Base
+572,Log 572: Static report on weather. No anomalies detected.,None,None,Earth_Base
+573,Log 573: Static report on weather. No anomalies detected.,None,None,Earth_Base
+574,Log 574: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+575,Log 575: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+576,Log 576: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+577,Log 577: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+578,Log 578: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+579,Log 579: Static report on weather. No anomalies detected.,None,None,Earth_Base
+580,Log 580: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+581,Log 581: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+582,Log 582: Static report on weather. No anomalies detected.,None,None,Earth_Base
+583,Log 583: Static report on weather. No anomalies detected.,None,None,Earth_Base
+584,Log 584: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+585,Log 585: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+586,Log 586: Static report on weather. No anomalies detected.,None,None,Earth_Base
+587,Log 587: Static report on weather. No anomalies detected.,None,None,Earth_Base
+588,Log 588: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+589,Log 589: Static report on weather. No anomalies detected.,None,None,Earth_Base
+590,Log 590: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+591,Log 591: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+592,Log 592: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+593,Log 593: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+594,Log 594: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+595,Log 595: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+596,Log 596: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+597,Log 597: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+598,Log 598: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+599,Log 599: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+600,Log 600: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+601,Log 601: Static report on weather. No anomalies detected.,None,None,Earth_Base
+602,Log 602: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+603,Log 603: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+604,Log 604: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+605,Log 605: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+606,Log 606: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+607,Log 607: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+608,Log 608: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+609,Log 609: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+610,Log 610: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+611,Log 611: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+612,Log 612: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+613,Log 613: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+614,Log 614: Static report on weather. No anomalies detected.,None,None,Earth_Base
+615,Log 615: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+616,Log 616: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+617,Log 617: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+618,Log 618: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+619,Log 619: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+620,Log 620: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+621,Log 621: Static report on weather. No anomalies detected.,None,None,Earth_Base
+622,Log 622: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+623,Log 623: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+624,Log 624: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+625,Log 625: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+626,Log 626: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+627,Log 627: Static report on weather. No anomalies detected.,None,None,Earth_Base
+628,Log 628: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+629,Log 629: Static report on weather. No anomalies detected.,None,None,Earth_Base
+630,Log 630: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+631,Log 631: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+632,Log 632: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+633,Log 633: Static report on weather. No anomalies detected.,None,None,Earth_Base
+634,Log 634: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+635,Log 635: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+636,Log 636: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+637,Log 637: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+638,Log 638: Static report on weather. No anomalies detected.,None,None,Earth_Base
+639,Log 639: Static report on weather. No anomalies detected.,None,None,Earth_Base
+640,Log 640: Static report on weather. No anomalies detected.,None,None,Earth_Base
+641,Log 641: Static report on weather. No anomalies detected.,None,None,Earth_Base
+642,Log 642: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+643,Log 643: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+644,Log 644: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+645,Log 645: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+646,Log 646: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+647,Log 647: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+648,Log 648: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+649,Log 649: Static report on weather. No anomalies detected.,None,None,Earth_Base
+650,Log 650: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+651,Log 651: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+652,Log 652: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+653,Log 653: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+654,Log 654: Static report on weather. No anomalies detected.,None,None,Earth_Base
+655,Log 655: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+656,Log 656: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+657,Log 657: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+658,Log 658: Static report on weather. No anomalies detected.,None,None,Earth_Base
+659,Log 659: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+660,Log 660: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+661,Log 661: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+662,Log 662: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+663,Log 663: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+664,Log 664: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+665,Log 665: Static report on weather. No anomalies detected.,None,None,Earth_Base
+666,Log 666: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+667,Log 667: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+668,Log 668: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+669,Log 669: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+670,Log 670: Static report on weather. No anomalies detected.,None,None,Earth_Base
+671,Log 671: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+672,Log 672: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+673,Log 673: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+674,Log 674: Static report on weather. No anomalies detected.,None,None,Earth_Base
+675,Log 675: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+676,Log 676: Static report on weather. No anomalies detected.,None,None,Earth_Base
+677,Log 677: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+678,Log 678: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+679,Log 679: Static report on weather. No anomalies detected.,None,None,Earth_Base
+680,Log 680: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+681,Log 681: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+682,Log 682: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+683,Log 683: Static report on weather. No anomalies detected.,None,None,Earth_Base
+684,Log 684: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+685,Log 685: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+686,Log 686: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+687,Log 687: Static report on weather. No anomalies detected.,None,None,Earth_Base
+688,Log 688: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+689,Log 689: Static report on weather. No anomalies detected.,None,None,Earth_Base
+690,Log 690: Static report on weather. No anomalies detected.,None,None,Earth_Base
+691,Log 691: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+692,Log 692: Static report on weather. No anomalies detected.,None,None,Earth_Base
+693,Log 693: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+694,Log 694: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+695,Log 695: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+696,Log 696: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+697,Log 697: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+698,Log 698: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+699,Log 699: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+700,Log 700: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+701,Log 701: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+702,Log 702: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+703,Log 703: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+704,Log 704: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+705,Log 705: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+706,Log 706: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+707,Log 707: Static report on weather. No anomalies detected.,None,None,Earth_Base
+708,Log 708: Static report on weather. No anomalies detected.,None,None,Earth_Base
+709,Log 709: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+710,Log 710: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+711,Log 711: Static report on weather. No anomalies detected.,None,None,Earth_Base
+712,Log 712: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+713,Log 713: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+714,Log 714: Static report on weather. No anomalies detected.,None,None,Earth_Base
+715,Log 715: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+716,Log 716: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+717,Log 717: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+718,Log 718: Static report on weather. No anomalies detected.,None,None,Earth_Base
+719,Log 719: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+720,Log 720: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+721,Log 721: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+722,Log 722: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+723,Log 723: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+724,Log 724: Static report on weather. No anomalies detected.,None,None,Earth_Base
+725,Log 725: Static report on weather. No anomalies detected.,None,None,Earth_Base
+726,Log 726: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+727,Log 727: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+728,Log 728: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+729,Log 729: Static report on weather. No anomalies detected.,None,None,Earth_Base
+730,Log 730: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+731,Log 731: Static report on weather. No anomalies detected.,None,None,Earth_Base
+732,Log 732: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+733,Log 733: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+734,Log 734: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+735,Log 735: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+736,Log 736: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+737,Log 737: Static report on weather. No anomalies detected.,None,None,Earth_Base
+738,Log 738: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+739,Log 739: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+740,Log 740: Static report on weather. No anomalies detected.,None,None,Earth_Base
+741,Log 741: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+742,Log 742: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+743,Log 743: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+744,Log 744: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+745,Log 745: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+746,Log 746: Static report on weather. No anomalies detected.,None,None,Earth_Base
+747,Log 747: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+748,Log 748: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+749,Log 749: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+750,Log 750: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+751,Log 751: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+752,Log 752: Static report on weather. No anomalies detected.,None,None,Earth_Base
+753,Log 753: Static report on weather. No anomalies detected.,None,None,Earth_Base
+754,Log 754: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+755,Log 755: Static report on weather. No anomalies detected.,None,None,Earth_Base
+756,Log 756: Static report on weather. No anomalies detected.,None,None,Earth_Base
+757,Log 757: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+758,Log 758: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+759,Log 759: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+760,Log 760: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+761,Log 761: Static report on weather. No anomalies detected.,None,None,Earth_Base
+762,Log 762: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+763,Log 763: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+764,Log 764: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+765,Log 765: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+766,Log 766: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+767,Log 767: Static report on weather. No anomalies detected.,None,None,Earth_Base
+768,Log 768: Static report on weather. No anomalies detected.,None,None,Earth_Base
+769,Log 769: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+770,Log 770: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+771,Log 771: Static report on weather. No anomalies detected.,None,None,Earth_Base
+772,Log 772: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+773,Log 773: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+774,Log 774: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+775,Log 775: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+776,Log 776: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+777,Log 777: Static report on weather. No anomalies detected.,None,None,Earth_Base
+778,Log 778: Static report on weather. No anomalies detected.,None,None,Earth_Base
+779,Log 779: Static report on weather. No anomalies detected.,None,None,Earth_Base
+780,Log 780: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+781,Log 781: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+782,Log 782: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+783,Log 783: Static report on weather. No anomalies detected.,None,None,Earth_Base
+784,Log 784: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+785,Log 785: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+786,Log 786: Static report on weather. No anomalies detected.,None,None,Earth_Base
+787,Log 787: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+788,Log 788: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+789,Log 789: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+790,Log 790: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+791,Log 791: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+792,Log 792: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+793,Log 793: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+794,Log 794: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+795,Log 795: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+796,Log 796: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+797,Log 797: Static report on weather. No anomalies detected.,None,None,Earth_Base
+798,Log 798: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+799,Log 799: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+800,Log 800: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+801,Log 801: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+802,Log 802: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+803,Log 803: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+804,Log 804: Static report on weather. No anomalies detected.,None,None,Earth_Base
+805,Log 805: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+806,Log 806: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+807,Log 807: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+808,Log 808: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+809,Log 809: Static report on weather. No anomalies detected.,None,None,Earth_Base
+810,Log 810: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+811,Log 811: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+812,Log 812: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+813,Log 813: Static report on weather. No anomalies detected.,None,None,Earth_Base
+814,Log 814: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+815,Log 815: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+816,Log 816: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+817,Log 817: Static report on weather. No anomalies detected.,None,None,Earth_Base
+818,Log 818: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+819,Log 819: Static report on weather. No anomalies detected.,None,None,Earth_Base
+820,Log 820: Static report on weather. No anomalies detected.,None,None,Earth_Base
+821,Log 821: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+822,Log 822: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+823,Log 823: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+824,Log 824: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+825,Log 825: Static report on weather. No anomalies detected.,None,None,Earth_Base
+826,Log 826: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+827,Log 827: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+828,Log 828: Static report on weather. No anomalies detected.,None,None,Earth_Base
+829,Log 829: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+830,Log 830: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+831,Log 831: Static report on weather. No anomalies detected.,None,None,Earth_Base
+832,Log 832: Static report on weather. No anomalies detected.,None,None,Earth_Base
+833,Log 833: Static report on weather. No anomalies detected.,None,None,Earth_Base
+834,Log 834: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+835,Log 835: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+836,Log 836: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+837,Log 837: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+838,Log 838: Static report on weather. No anomalies detected.,None,None,Earth_Base
+839,Log 839: Static report on weather. No anomalies detected.,None,None,Earth_Base
+840,Log 840: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+841,Log 841: Static report on weather. No anomalies detected.,None,None,Earth_Base
+842,Log 842: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+843,Log 843: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+844,Log 844: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+845,Log 845: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+846,Log 846: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+847,Log 847: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+848,Log 848: Static report on crew rations. No anomalies detected.,None,None,Earth_Base
+849,Log 849: Static report on orbital debris. No anomalies detected.,None,None,Earth_Base
+850,Log 850: Static report on sensor calibration. No anomalies detected.,None,None,Earth_Base
+851,Security audit in progress.,What is the secure access code for Vault 1?,1001,Earth_Base
+852,Security audit in progress.,What is the secure access code for Vault 2?,1002,Earth_Base
+853,Security audit in progress.,What is the secure access code for Vault 3?,1003,Earth_Base
+854,Security audit in progress.,What is the secure access code for Vault 4?,1004,Earth_Base
+855,Security audit in progress.,What is the secure access code for Vault 5?,1005,Earth_Base
+856,Security audit in progress.,What is the secure access code for Vault 6?,1006,Earth_Base
+857,Security audit in progress.,What is the secure access code for Vault 7?,1007,Earth_Base
+858,Security audit in progress.,What is the secure access code for Vault 8?,1008,Earth_Base
+859,Security audit in progress.,What is the secure access code for Vault 9?,1009,Earth_Base
+860,Security audit in progress.,What is the secure access code for Vault 10?,1010,Earth_Base
+861,Security audit in progress.,What is the secure access code for Vault 11?,1011,Earth_Base
+862,Security audit in progress.,What is the secure access code for Vault 12?,1012,Earth_Base
+863,Security audit in progress.,What is the secure access code for Vault 13?,1013,Earth_Base
+864,Security audit in progress.,What is the secure access code for Vault 14?,1014,Earth_Base
+865,Security audit in progress.,What is the secure access code for Vault 15?,1015,Earth_Base
+866,Security audit in progress.,What is the secure access code for Vault 16?,1016,Earth_Base
+867,Security audit in progress.,What is the secure access code for Vault 17?,1017,Earth_Base
+868,Security audit in progress.,What is the secure access code for Vault 18?,1018,Earth_Base
+869,Security audit in progress.,What is the secure access code for Vault 19?,1019,Earth_Base
+870,Security audit in progress.,What is the secure access code for Vault 20?,1020,Earth_Base
+871,Security audit in progress.,What is the secure access code for Vault 21?,1021,Earth_Base
+872,Security audit in progress.,What is the secure access code for Vault 22?,1022,Earth_Base
+873,Security audit in progress.,What is the secure access code for Vault 23?,1023,Earth_Base
+874,Security audit in progress.,What is the secure access code for Vault 24?,1024,Earth_Base
+875,Security audit in progress.,What is the secure access code for Vault 25?,1025,Earth_Base
+876,Security audit in progress.,What is the secure access code for Vault 26?,1026,Earth_Base
+877,Security audit in progress.,What is the secure access code for Vault 27?,1027,Earth_Base
+878,Security audit in progress.,What is the secure access code for Vault 28?,1028,Earth_Base
+879,Security audit in progress.,What is the secure access code for Vault 29?,1029,Earth_Base
+880,Security audit in progress.,What is the secure access code for Vault 30?,1030,Earth_Base
+881,Security audit in progress.,What is the secure access code for Vault 31?,1031,Earth_Base
+882,Security audit in progress.,What is the secure access code for Vault 32?,1032,Earth_Base
+883,Security audit in progress.,What is the secure access code for Vault 33?,1033,Earth_Base
+884,Security audit in progress.,What is the secure access code for Vault 34?,1034,Earth_Base
+885,Security audit in progress.,What is the secure access code for Vault 35?,1035,Earth_Base
+886,Security audit in progress.,What is the secure access code for Vault 36?,1036,Earth_Base
+887,Security audit in progress.,What is the secure access code for Vault 37?,1037,Earth_Base
+888,Security audit in progress.,What is the secure access code for Vault 38?,1038,Earth_Base
+889,Security audit in progress.,What is the secure access code for Vault 39?,1039,Earth_Base
+890,Security audit in progress.,What is the secure access code for Vault 40?,1040,Earth_Base
+891,Security audit in progress.,What is the secure access code for Vault 41?,1041,Earth_Base
+892,Security audit in progress.,What is the secure access code for Vault 42?,1042,Earth_Base
+893,Security audit in progress.,What is the secure access code for Vault 43?,1043,Earth_Base
+894,Security audit in progress.,What is the secure access code for Vault 44?,1044,Earth_Base
+895,Security audit in progress.,What is the secure access code for Vault 45?,1045,Earth_Base
+896,Security audit in progress.,What is the secure access code for Vault 46?,1046,Earth_Base
+897,Security audit in progress.,What is the secure access code for Vault 47?,1047,Earth_Base
+898,Security audit in progress.,What is the secure access code for Vault 48?,1048,Earth_Base
+899,Security audit in progress.,What is the secure access code for Vault 49?,1049,Earth_Base
+900,Security audit in progress.,What is the secure access code for Vault 50?,1050,Earth_Base
+901,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+902,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+903,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+904,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+905,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+906,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+907,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+908,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+909,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+910,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+911,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+912,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+913,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+914,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+915,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+916,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+917,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+918,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+919,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+920,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+921,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+922,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+923,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+924,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+925,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+926,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+927,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+928,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+929,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+930,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+931,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+932,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+933,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+934,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+935,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+936,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+937,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+938,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+939,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+940,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+941,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+942,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+943,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+944,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+945,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+946,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+947,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+948,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+949,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
+950,ENVIRONMENT ALERT: Switching to Mars Simulation. Local gravity is 3.7.,What is the current local gravity?,3.7,Mars_Sim
